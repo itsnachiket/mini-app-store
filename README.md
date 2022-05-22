@@ -1,4 +1,4 @@
-This app is hosted at miniappstore.ccbp.tech
+
 
 ### Refer to the image below:
 
